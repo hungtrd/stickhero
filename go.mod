@@ -1,4 +1,4 @@
-module github.com/hungtrd/stickhero
+module go.hung.rocks/stickhero
 
 go 1.23.4
 
